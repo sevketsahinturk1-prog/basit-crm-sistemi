@@ -13,15 +13,17 @@
 
 ## 📸 Ekran Görüntüleri
 
+![Login Ekranı](loginekran.png)
+*admin login ekranı arayüzü*
 
 
-![Dashboard ve Genel Görünüm](resim_yolu/dashboard.png)
+![Dashboard ve Genel Görünüm](musteriler.png)
 *Ana ekran, özet istatistikler ve modern müşteri arayüzü.*
 
-![Satışlar ve Grafik](resim_yolu/satislar.png)
+![Satışlar ve Grafik](satislar.png)
 *Gelişmiş satış filtreleme ve günlük satış grafiği sekmesi.*
 
-![Koyu Tema](resim_yolu/dark_tema.png)
+![Koyu Tema](koyumod.png)
 *Göz yormayan koyu (dark) tema seçeneği.*
 
 ## 🛠️ Kullanılan Teknolojiler
